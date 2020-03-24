@@ -4,7 +4,7 @@
 ## Cara Menggunakan
 
 ### 1. Install Compiler
-1. Unduh [Kompiler](http://https://github.com/datascienceid/README#mengunduh-repository)
+1. Unduh [Compiler](http://https://github.com/datascienceid/README#mengunduh-repository)
 2. Install
 3. Tekan Windows + R
 4. Ketik : SystemPropertiesAdvanced
